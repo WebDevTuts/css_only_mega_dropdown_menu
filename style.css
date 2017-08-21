@@ -66,6 +66,11 @@ nav li:hover .menu-sub {
 
 .menu-sub a {
   padding: 0;
+  margin-bottom: 0.35em;
+}
+
+.menu-sub a:hover {
+  text-decoration: underline;
 }
 
 .menu-category {
