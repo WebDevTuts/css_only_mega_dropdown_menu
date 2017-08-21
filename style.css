@@ -80,3 +80,14 @@ nav li:hover .menu-sub {
 .menu-category:first-of-type {
   margin-top: 0;
 }
+
+.menu-col-1,
+.menu-col-2,
+.menu-col-3,
+.menu-col-4 {
+  float: left;
+}
+
+.menu-col-1 {
+  width: 25%;
+}
