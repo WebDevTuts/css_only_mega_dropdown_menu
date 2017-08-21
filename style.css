@@ -54,6 +54,7 @@ nav li:hover a {
   display: none;
   color: #fff;
   padding: 2em;
+  left: 0;
 }
 
 nav li:hover .menu-sub {
