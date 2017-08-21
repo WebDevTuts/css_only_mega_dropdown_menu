@@ -46,3 +46,12 @@ nav li:hover {
 nav li:hover a {
   color: #fff;
 }
+
+.menu-sub {
+  position: absolute;
+  background: #444;
+  width: 100%;
+  display: none;
+  color: #fff;
+  padding: 2em;
+}
