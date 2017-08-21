@@ -55,3 +55,15 @@ nav li:hover a {
   color: #fff;
   padding: 2em;
 }
+
+nav li:hover .menu-sub {
+  display: block;
+}
+
+.menu-sub li {
+  display: block;
+}
+
+.menu-sub a {
+  padding: 0;
+}
