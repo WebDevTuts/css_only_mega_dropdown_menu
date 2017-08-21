@@ -67,3 +67,11 @@ nav li:hover .menu-sub {
 .menu-sub a {
   padding: 0;
 }
+
+.menu-category {
+  margin: 2.5em 0 .5em;
+}
+
+.menu-category:first-of-type {
+  margin-top: 0;
+}
