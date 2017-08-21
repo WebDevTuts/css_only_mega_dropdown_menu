@@ -14,3 +14,35 @@ body {
   max-width: 1000px;
   margin: 0 auto;
 }
+
+nav {
+  background: #fff;
+  box-shadow: 0 0 15px 0 rgba(0,0,0,.10);
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  text-align: left;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  color: #444;
+  text-decoration: none;
+  display: block;
+  padding: .75em 1.75em;
+}
+
+nav li:hover {
+  background: #444;
+}
+
+nav li:hover a {
+  color: #fff;
+}
