@@ -92,3 +92,7 @@ nav li:hover .menu-sub {
 .menu-col-1 {
   width: 25%;
 }
+
+.menu-col-2 {
+  width: 50%;
+}
